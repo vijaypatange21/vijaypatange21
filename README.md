@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Full-Stack<br>👯 I’m looking to collaborate on Open-Source Tech<br>🤝 I’m looking for help with a front-end dev<br>🌱 I’m currently learning Machine-Learning<br>💬 Ask me about any  <br>⚡ Fun fact: AI is already all around us
+🔭 I’m currently working on Python Full-Stack<br> DSA entusiast<br>👯 I’m looking to collaborate on Open-Source Tech<br>🤝 I’m looking for help with a front-end dev<br>🌱 I’m currently learning Machine-Learning<br>💬 Ask me about any tech queries <br>⚡ Fun fact: **AI is already all around us**
 
 
 ## 🌐 Socials:
